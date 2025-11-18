@@ -129,10 +129,10 @@ Me chamo Davy de Almeida Brito, tenho 19 anos e sou natural do Espirito Santo. A
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavyBrt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800)](https://github-readme-stats.vercel.app/api?username=DavyBrt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800)](https://github-readme-stats.vercel.app/api?username=DavyBrt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavyBrt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+/>
 </p>
